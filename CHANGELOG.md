@@ -1,3 +1,9 @@
+## [1.3.0] - 2022-04-27
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- cosmetic issue fixed
+
 ## [1.2.0] - 2021-01-05
 ### Updates
 - update to Angular 11
