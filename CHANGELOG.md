@@ -1,3 +1,10 @@
+## [1.4.0] - 2023-07-26
+### Updates
+- update to Angular 15
+- update all dependencies to match Angular 15 version
+- tsconfig updated
+- scss warning issue fixed
+
 ## [1.3.0] - 2022-04-27
 ### Updates
 - update to Angular 13
